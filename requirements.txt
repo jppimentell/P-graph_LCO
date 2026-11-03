@@ -2,3 +2,4 @@ pandas
 networkx
 matplotlib
 git+https://github.com/tsyet12/Pgraph
+openpyxl
